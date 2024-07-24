@@ -1,0 +1,7 @@
+Enter the name of the input file: Exercise5.txt
+Number of students with first-class marks: 37
+Number of students with second-class marks: 42
+Number of students with third-class marks: 10
+Number of students who have failed: 11
+Registration numbers of students who have failed:
+[1871813, 2116305, 2083148, 2105013, 2068293, 1962016, 1975305, 1932827, 2022465, 2168103, 2170785]
